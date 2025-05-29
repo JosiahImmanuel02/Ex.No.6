@@ -6,7 +6,7 @@ To create a Repository
 # Procedure:
 
 1. Opening a terminal
-The first line [root@servera ~]# shows that the user is logged in to the server with the
+The first line [root@servera ~] shows that the user is logged in to the server with the
 username root and is currently in their home directory (~). This indicates the user is logged in
 with administrator privileges.
 2. Creating a directory
